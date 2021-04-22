@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="334px" viewBox="0 0 320 334" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>palette</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="320" height="334"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="palette" transform="translate(160.000000, 167.000000) scale(-1, -1) translate(-160.000000, -167.000000) ">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g mask="url(#mask-2)">
+                <g transform="translate(286.500000, 233.000000) rotate(42.500000) translate(-286.500000, -233.000000) translate(154.000000, -24.000000)">
+                    <polygon id="Path-4" fill="#F95C39" points="140 386.133699 265 273.596869 19.7568552 0.669130606 20.5 292.708415 20.5 385.751468"></polygon>
+                    <polygon id="Rectangle-2" fill="#245A79" points="0 61.3581213 53 61.3581213 53 465.7182 0 514"></polygon>
+                    <polygon id="Rectangle-3" fill="#88B6CA" points="18 161.945205 53 161.945205 53 417.436399 18 417.436399"></polygon>
+                    <polygon id="Rectangle-2" fill="#EDF2F4" points="53 161.945205 106 161.945205 106 417.436399 53 465.7182"></polygon>
+                    <polygon id="Path-2" fill="#FBA693" points="90 278.123288 106 278.123288 106 417.436399 90 432.021526"></polygon>
+                    <polygon id="Path-3" fill="#CC4C2F" points="106 278.123288 140 278.123288 140 386.141425 106 417.436399"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
